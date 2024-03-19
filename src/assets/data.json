@@ -1,0 +1,89 @@
+
+
+{
+    "user": "Jing",
+    "projects": [
+        {
+            "name": "My First Project",
+            "description": "Saved at 2021"
+        },
+        {
+            "name": "My Second Project",
+            "description": "Saved at 2022"
+        },
+        {
+            "name": "My Third Project",
+            "description": "Saved at 2024"
+        }
+    ],
+    "education": [
+        {
+            "school": "Chas Academy, Stockholm",
+            "time-period": "Aug 2023 - Present",
+            "subject": "FullStack .NET",
+            "description": "The .NET training enables me skills in C# to create web and business applications. It covers everything from front-end development with JavaScript to back-end development and database management."
+        },
+        {
+            "school": "IT-Högskolan, Stockholm",
+            "time-period": "Aug 2022 - Feb 2023",
+            "subject": "Java",
+            "description": "The JAVA training enables me the basic knowledge of object-oriented programming and database management."           
+        },
+        {
+            "school": "Swedish Language Course",
+            "time-period": "Oct 2020 - Mar 2022",
+            "subject": "Swedish",
+            "description": "From SFI C to SVA 2"
+        },
+        {
+            "school": "Karolinska Institutet, Sweden",
+            "time-period": "Aug 2018 - Jun 2020",
+            "subject": "MASTER OF MEDICAL MANAGEMENT",
+            "description": "Medical management with a focus on health economics and policy analysis."
+        },
+        {
+            "school": "University of Limerick, Ireland",
+            "time-period": "Jun 2017 - Jan 20219",
+            "subject": "M.A. Mangement and Marketing",
+            "description": "Business management with a focus on entrepreneurship and business analysis."
+        },
+        {
+            "school": "Zhejiang Gongshang University, China",
+            "time-period": "Sep 2001 - Jun 2005",
+            "subject": "B.A in Economics",
+            "description": "Economics with a focus on finance"
+        }
+    ], 
+    "work experience": [
+        {
+            "workplace": "BSH, Sweden",
+            "jobtitle": "Market Researcher(Intern)",
+            "time-period": "Sep 2022 - Dec 2023",
+            "focus-area": "Market data analysis and data visualization."
+        },
+        {
+            "workplance": "Enze Medical Group, China",
+            "jobtitle": "Internal auditor",
+            "time-period": "Aug 2015 - Jun 2017",
+            "focus-area": "Internal Audit, Performance Management and Reporting."
+        },
+        {
+            "workplance": "Enze Medical Group, China",
+            "jobtitle": "Financial Analyst",
+            "time-period": "Jun 2010 - Jun 2015",
+            "focus-area": "Financial and business data analysis, Data visualization and Reporting."           
+        },
+        {
+            "workplance": "Enze Medical Group, China",
+            "jobtitle": "Accountant",
+            "time-period": "Aug 2007 - May 2010",
+            "focus-area": "Bookkeeping and account payable."
+        },
+        {
+            "workplance": "Enze Medical Group, China",
+            "jobtitle": "HR Analyst",
+            "time-period": "Aug 200 - Jul 2007",
+            "focus-area": "Data collection, Performance evaluations and HR data analysis."
+        }
+    ]
+}
